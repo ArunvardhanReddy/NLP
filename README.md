@@ -4,3 +4,8 @@
 
 
 #TASK2: https://github.com/ArunvardhanReddy/NLP/blob/master/12-06-2020.ipynb
+
+
+mini project-2: https://github.com/ArunvardhanReddy/NLP/blob/master/26-06-2020.ipynb
+
+
